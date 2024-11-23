@@ -1,4 +1,4 @@
-<img src="./docs/assets/zen-black.svg" width="100px" align="left">
+<img src="./docs/assets/partisan.svg" width="100px" align="left">
 
 ### `Zen Browser`
 
