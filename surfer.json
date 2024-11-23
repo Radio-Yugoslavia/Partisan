@@ -20,7 +20,7 @@
       "release": {
         "displayVersion": "0.1⍺",
         "github": {
-          "repo": "Partisan/desktop"
+          "repo": "Partisan/"
         },
         "archives": {
           "windows": "windows.mar",
@@ -40,7 +40,7 @@
       "release": {
         "displayVersion": "0.1⍺",
         "github": {
-          "repo": "zen-browser/desktop"
+          "repo": "Partisan/"
         },
         "archives": {
           "windows": "windows.mar",
