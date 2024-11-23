@@ -1,9 +1,8 @@
 <img src="./docs/assets/partisan.svg" width="100px" align="left">
 
-### `Zen Browser`
+### `Partisan Browser`
 
-[![Downloads](https://img.shields.io/github/downloads/zen-browser/desktop/total.svg)](https://github.com/zen-browser/desktop/releases)
-[![Crowdin](https://badges.crowdin.net/zen-browser/localized.svg)](https://crowdin.com/project/zen-browser)
+[![Downloads](https://img.shields.io/github/downloads/Radio-Yugoslavia/Partisan/desktop/total.svg)](https://github.com/Radio-Yugoslavia/Partisan/desktop/releases)
 
 
 ✨ Experience tranquillity while browsing the web without people tracking you! Zen is a privacy-focused browser that blocks trackers, ads, and other unwanted content while offering the best browsing experience!
