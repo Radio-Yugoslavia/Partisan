@@ -8,7 +8,7 @@ importers:
 
   .:
     dependencies:
-      '@zen-browser/surfer':
+      '@partisan/surfer':
         specifier: ^1.5.2
         version: 1.5.2
     devDependencies:
@@ -119,7 +119,7 @@ packages:
   '@types/node@17.0.45':
     resolution: {integrity: sha512-w+tIMs3rq2afQdsPJlODhoUEKzFP1ayaoyl1CcnwtIlsVe7K7bA1NGm4s3PraqTLlXnbIN84zuBlxBWo1u9BLw==}
 
-  '@zen-browser/surfer@1.5.2':
+  '@partisan/surfer@1.5.2':
     resolution: {integrity: sha512-QJT12gcFWdicEVlh0o9tVi7FQmoGuYuy+ROgzFzLMclbQSyJxhVaYy08A1S0y+Fn2rzs7BflmZ1zXPrabiLgpA==}
     hasBin: true
 
@@ -1003,7 +1003,7 @@ snapshots:
 
   '@types/node@17.0.45': {}
 
-  '@zen-browser/surfer@1.5.2':
+  '@partisan/surfer@1.5.2':
     dependencies:
       '@resvg/resvg-js': 1.4.0
       async-icns: 1.0.2
